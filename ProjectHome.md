@@ -1,0 +1,1 @@
+Current as of AIR 1.5.  Uses jQuery 1.3 to facilitate event handling, but the Adobe AIR specific features have no dependency.
